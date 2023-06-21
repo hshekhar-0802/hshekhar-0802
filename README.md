@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Himanshu Shekhar.
+- 👋 Hi, I’m Himanshu Shekhar, an undergraduate student at the Indian Institute of Technology, Delhi in the Compter Science department.
 - 👀 I’m interested in computing, algorithms and mathematics.
 - 🌱 I’m currently learning web development and machine learning. In the meanwhile I am exploring competitive coding too.
 - 📫 You can reach me via my official email cs1221091@cse.iitd.ac.in
