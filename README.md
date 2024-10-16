@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Himanshu Shekhar, a junior-year Computer Science student at the Indian Institute of Technology.
+- 👋 Hi, I’m Himanshu Shekhar, a junior-year Computer Science student at the Indian Institute of Technology, Delhi.
 - 👀 I’m interested in problems related to machine learning and artificial intelligence.
 - 🌱 I’m currently learning system design, artificial intelligence and machine learning.
 - 📫 You can reach me at my official email hshekhar.cs122@cse.iitd.ac.in
